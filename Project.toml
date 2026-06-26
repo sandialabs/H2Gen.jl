@@ -1,0 +1,7 @@
+name = "H2Gen"
+uuid = "723521b7-fb78-4ee2-baa8-3c80454e07bc"
+authors = ["Kevin R. Moore <kevmoor@sandia.gov>", "Julian Straus", "Avinash Subramanian"]
+version = "1.0.0"
+
+[compat]
+julia = "1.10"

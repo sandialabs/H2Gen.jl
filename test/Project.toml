@@ -1,0 +1,10 @@
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+H2Gen = "723521b7-fb78-4ee2-baa8-3c80454e07bc"
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
+FiniteDiff = "6a86dc24-6348-571c-b903-95158fe2bd41"
+
+[compat]
+FiniteDiff = "2"
+ForwardDiff = "0.10, 1"
+H2Gen = "1"

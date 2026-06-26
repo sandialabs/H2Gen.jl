@@ -1,0 +1,7 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+H2Gen = "723521b7-fb78-4ee2-baa8-3c80454e07bc"
+
+[compat]
+Documenter = "1"
+H2Gen = "1"
