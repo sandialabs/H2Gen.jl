@@ -20,8 +20,8 @@ makedocs(
     remotes = nothing,
     format = Documenter.HTML(
         prettyurls = get(ENV, "CI", "false") == "true",
-        edit_link = "main",
-        repolink = "https://github.com/EnergyModelsX/H2gen.jl",
+        edit_link = "master",
+        repolink = "https://github.com/sandialabs/H2Gen.jl",
         assets = String[],
         ansicolor = true,
     ),
@@ -35,6 +35,7 @@ makedocs(
 
 if get(ENV, "CI", "false") == "true"
     deploydocs(;
-        repo = "github.com/EnergyModelsX/H2gen.jl.git",
+        repo = "github.com/sandialabs/H2Gen.jl.git",
+        devbranch = "master",
     )
 end
