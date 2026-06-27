@@ -1,6 +1,11 @@
 # H2Gen
 
 [![DOI](https://joss.theoj.org/papers/10.21105/joss.06619/status.svg)](https://doi.org/10.21105/joss.06619)
+[![Tests](https://github.com/sandialabs/H2Gen.jl/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/sandialabs/H2Gen.jl/actions/workflows/ci.yml)
+[![Docs](https://github.com/sandialabs/H2Gen.jl/actions/workflows/documentation.yml/badge.svg?branch=master)](https://sandialabs.github.io/H2Gen.jl/dev/)
+[![Coverage](https://codecov.io/gh/sandialabs/H2Gen.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/sandialabs/H2Gen.jl)
+
+Documentation is hosted at [sandialabs.github.io/H2Gen.jl/dev/](https://sandialabs.github.io/H2Gen.jl/dev/).
 
 `H2Gen` is a lightweight hydrogen conversion toolkit with a clean, struct-based API.
 It provides static and dynamic calculations for:
