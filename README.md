@@ -16,7 +16,7 @@ No JuMP or optimization dependencies are required.
 
 ```julia
 using Pkg
-Pkg.add(url = "https://github.com/EnergyModelsX/H2gen.jl")
+Pkg.add(url = "https://github.com/sandialabs/H2Gen.jl")
 ```
 
 For local development from a checkout:
